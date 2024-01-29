@@ -1,0 +1,54 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.navigation .link {
+  text-decoration: none;
+  color: #2e2f42;
+}
+.navigation .link:hover,
+.navigation .link:focus {
+  color: #404bbf;
+}
+
+.link-webstudio {
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.address .link {
+  text-decoration: none;
+  color: #434455;
+}
+.address .link:hover,
+.address .link:focus {
+  color: #404bbf;
+}
+
+.main-title {
+  font-size: 56px;
+  line-height: 60px;
+}
+.titles {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.paragraphs {
+  font-size: 16px;
+  line-height: 24px;
+}
+.first-section {
+  background-color: #2e2f42;
+  color: #ffffff;
+}
+.our-team-section {
+  background-color: #f4f4fd;
+}
+.footer-section {
+  background-color: #2e2f42;
+  color: #ffffff;
+}
