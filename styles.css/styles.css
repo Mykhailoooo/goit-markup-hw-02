@@ -50,7 +50,7 @@ body {
   background-color: #404bbf;
 }
 
-.section-titles {
+.section-title2 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -59,8 +59,11 @@ body {
 }
 
 .titles {
+  font-weight: 500;
   font-size: 20px;
   line-height: 24px;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .paragraphs {
@@ -68,6 +71,16 @@ body {
   line-height: 24px;
   letter-spacing: 0.02em;
 }
+
+.section-title3 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
 .first-section {
   background-color: #2e2f42;
   color: #ffffff;
