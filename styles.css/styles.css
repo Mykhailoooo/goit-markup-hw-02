@@ -16,6 +16,8 @@ body {
   color: #4d5ae5;
 }
 .navigation .link {
+  font-weight: 500;
+  letter-spacing: 0.02em;
   text-decoration: none;
   color: #2e2f42;
 }
@@ -32,6 +34,8 @@ body {
 .address .link {
   text-decoration: none;
   color: #434455;
+  font-style: normal;
+  letter-spacing: 0.02em;
 }
 .address .link:hover,
 .address .link:focus {
