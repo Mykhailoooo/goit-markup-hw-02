@@ -31,10 +31,12 @@ body {
   font-size: 24px;
 }
 
+.address {
+  font-style: normal;
+}
 .address .link {
   text-decoration: none;
   color: #434455;
-  font-style: normal;
   letter-spacing: 0.02em;
 }
 .address .link:hover,
